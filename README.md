@@ -2,7 +2,8 @@
 Пример CRUD для  type-graphql и typeorm 
 
 1. Скачать или клонировать репозиторий, зайти внутрь папки
-2. # npm install -g typescript
+2. Создать каталог ./dist
+2. \# npm install -g typescript
 3. $ npm install
 4. $ tsc
 5. $ node ./dist/index.js
